@@ -1,107 +1,121 @@
-Certainly! Here's a structured overview of the Global Threat Management (GTM) Project based on the agenda you've provided:
 
-GTM (Global Threat Management) Project Overview
-The Global Threat Management (GTM) project is a strategic cybersecurity initiative focused on enhancing the organization’s capability to proactively identify, assess, and respond to emerging and existing cyber threats on a global scale. It aligns with enterprise risk management and regulatory compliance goals to secure critical assets, maintain business continuity, and build cyber resilience.
+Vice President – Operations & Project Management2023 – Present
 
-Objectives:
+Spearhead nationwide digital payment operations (NEFT, RTGS, UPI, IMPS, BBPS, CTS, CMS), ensuring seamless transaction flow and zero downtime
 
-Centralize and coordinate global threat intelligence.
+Established enterprise-wide audit-ready reconciliation tools, strengthening regulatory compliance and internal controls
 
-Improve detection and response capabilities.
+Lead project governance across PAN India operations, aligning initiatives with strategic business goals and risk management frameworks
 
-Implement standardized frameworks for threat identification and mitigation.
+Championed business continuity planning (BCP) and operational resilience, ensuring uninterrupted services during high-risk scenarios
 
-Integrate threat intelligence with incident response and risk management processes.
+Direct a high-performing team of 50+ professionals; cultivated a performance-driven, customer-centric culture across functions
 
-Key Benefits:
+Accelerated automation and process optimization using RPA, AI, and low-code platforms to reduce turnaround time and operational costs
 
-Faster response times to cyber threats.
+Delivered SDLC projects as Project Manager, leading cross-functional collaboration from requirements gathering to implementation and support
 
-Improved situational awareness across global operations.
 
-Reduced risk of data breaches, financial losses, and reputational damage.
+Core Expertise:
 
-Workstreams
-The GTM project typically consists of multiple coordinated workstreams, each responsible for a specific aspect of threat management. Below are common examples:
+Project Automation: Designed and deployed RPA (UiPath, Automation Anywhere) and low-code (Outsystems) solutions for banking operations (NACH, UPI, CTS).
 
-Threat Intelligence Integration
+SDLC Leadership: Managed full project lifecycles (requirement gathering, design, testing, deployment) for ISO-certified systems.
 
-Collecting, analyzing, and disseminating threat data from internal and external sources.
+Regulatory Alignment: Ensured audit-ready SDLC documentation and compliance with RBI/ISO standards.
 
-Security Operations Center (SOC) Enhancement
+SDLC Implementation:
 
-Upgrading or centralizing SOC capabilities, playbooks, and automation.
+Led end-to-end SDLC for AI-driven fraud detection modules (UPI/IMPS), from stakeholder requirements to UAT and production rollout.
 
-Threat Detection and Response
+Standardized Agile-Scrum practices for PAN-India payment projects, reducing sprint cycles by 25%.
 
-Implementing SIEM, XDR, SOAR solutions to improve detection and incident response time.
+Automation Projects:
 
-Governance, Risk, and Compliance (GRC) Alignment
+Spearheaded RPA-based auto-reconciliation (NEFT/RTGS), integrating CI/CD pipelines for seamless updates, saving 500+ hours annually.
 
-Ensuring threat management strategies align with regulatory requirements and internal policies.
+Deployed BPM workflows for cheque truncation (CTS), ensuring SDLC compliance (design → testing → audit trails).
 
-Red/Blue/Purple Team Exercises
+Tools & Governance:
 
-Simulating real-world attacks to test detection and response capabilities.
+Used JIRA for sprint planning and MS Project for waterfall-based project tracking.
 
-Tooling and Platform Modernization
+Established SDLC checkpoints for risk mitigation during mergers/acquisitions.
 
-Migrating to or integrating new platforms and technologies for threat visibility and reporting.
 
-Ways of Working
-To ensure seamless collaboration and delivery across teams and geographies, the project employs the following working principles:
 
-Agile Methodology
+Deputy Vice President – Electronic Payments | 2021 – 2023
 
-Iterative sprints for rapid delivery and continuous improvement.
+SDLC for Mandate Automation:
 
-Cross-Functional Teams
+Automated NACH mandate workflows using PowerShell scripting, following phased testing (SIT/UAT) and RBI approval.
 
-Involving security analysts, engineers, threat hunters, compliance officers, and business stakeholders.
+Process Reengineering:
 
-Regular Governance and Reporting
+Applied Six Sigma DMAIC within SDLC to reduce TAT by 30% for CTS operations.
 
-Weekly/bi-weekly standups, steering committee updates, and milestone tracking.
 
-Knowledge Sharing
+KEY ACHIEVEMENTS
+SDLC Excellence:
 
-Creating centralized documentation, playbooks, and best practices for global teams.
+Successfully delivered 8+ regulatory projects (RBI/ISO) with zero non-conformities in audit reviews.
 
-Tool-Driven Collaboration
+Implemented automated testing frameworks for payment systems, reducing defects by 40%.
 
-Leveraging platforms like Jira, Confluence, MS Teams/Slack, and threat intelligence platforms for communication and tracking.
+Automation Impact:
 
-Next Steps
-Here’s a typical sequence of upcoming activities in the GTM project lifecycle:
+AI/Outsystems: Built low-code customer complaint portals, cutting resolution time by 50%.
 
-Finalize Project Charter
+RPA: Automated 15,000+ monthly NACH transactions, eliminating manual errors.
 
-Define scope, timelines, KPIs, and responsibilities.
 
-Stakeholder Alignment
+Deputy Vice President – Electronic Payments | RBI Bank Ltd, Mumbai | 2021 – 2023
+Digital Transformation & SDLC Leadership in High-Volume Payment Systems
 
-Host workshops with global teams and leadership to refine requirements and ensure buy-in.
+Key Contributions:
+End-to-End Automation of NACH Mandate Workflows
 
-Workstream Kick-off
+Designed and deployed RPA bots (UiPath) to automate NACH mandate registration, validation, and reconciliation, eliminating 15,000+ manual interventions/month.
 
-Launch individual workstreams with assigned leads and sprint goals.
+Integrated AI-based anomaly detection to flag discrepancies in mandates, reducing processing errors by 35%.
 
-Baseline Assessments
+Followed SDLC phases:
 
-Conduct gap analyses of current threat management maturity, tools, and processes.
+Requirements: Collaborated with RBI and internal stakeholders to define compliance specs.
 
-Tooling and Platform Decisions
+Testing: Conducted SIT/UAT with 200+ test cases; achieved zero defects in production rollout.
 
-Select or refine existing technologies (e.g., threat intel platforms, SIEMs).
+SDLC-Driven Process Reengineering for CTS Operations
 
-Implementation Phase
+Revamped cheque truncation (CTS) workflows using BPM tools, reducing turnaround time (TAT) by 30%.
 
-Begin deployments, configurations, and testing of threat management solutions.
+Implemented Agile sprints for iterative improvements, completing 4 major releases in 12 months.
 
-Training and Enablement
+Ensured audit-ready documentation (FSDs, test logs) for ISO 9001:2000 certification.
 
-Equip teams with the knowledge and processes to operate new tools and frameworks.
+CI/CD Pipeline for Electronic Payment Systems
 
-Continuous Monitoring and Optimization
+Built automated deployment pipelines for NEFT/RTGS systems using PowerShell scripts, reducing manual release efforts by 50%.
 
-Measure performance, gather feedback, and iterate to improve.
+Introduced real-time monitoring dashboards (SLA tracking, error rates) using SQL-based analytics.
+
+Cross-Functional Collaboration & Training
+
+Led SDLC training programs for 100+ operations staff on Agile methodologies and automation tools.
+
+Partnered with IT to migrate legacy systems to cloud-based platforms, improving scalability.
+
+Regulatory Compliance & Risk Mitigation
+
+Spearheaded RBI-mandated upgrades for UPI/IMPS systems, ensuring 100% compliance with timelines.
+
+Developed BCP protocols for electronic payments, minimizing downtime during system failures.
+
+Achievements:
+Cost Savings: Automated cash pickup validation, reducing logistics costs by 20% ($250K annual savings).
+
+Efficiency Gains: Cut NACH mandate processing time from 48 hours to 4 hours via RPA.
+
+Awards: Won "Best Process Innovation" (2022) for CTS automation.
+
+
